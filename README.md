@@ -64,7 +64,7 @@ Check out all my posts on [Medium](https://medium.com/@miheer.c.jadhav7)
 
 ## 📫 **Let's Connect**
 - [LinkedIn](https://www.linkedin.com/in/miheercjadhav7)  
-- [Medium](#) (link placeholder).  
+- [Medium](https://medium.com/@miheer.c.jadhav7) .  
 - [GitHub](https://github.com/miheerj).  
 
 ---
