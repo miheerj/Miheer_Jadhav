@@ -43,10 +43,10 @@ Welcome to my GitHub! I'm a results-driven DevOps engineer passionate about buil
 > Sharing insights, tutorials, and best practices from my journey as a DevOps engineer.
 
 - [How I Automated My Resume Deployment with Terraform](#) (link placeholder).  
-- [CI/CD Done Right: Jenkins Pipelines for AWS Deployments](#) (link placeholder).  
-- [Mastering Kubernetes Monitoring with Grafana](#) (link placeholder).  
+- [Securing Infrastructure as Code: A Step-by-Step Guide to Automating Security with CFN Lint and CFN Guard](https://medium.com/@miheer.c.jadhav7/securing-infrastructure-as-code-a-step-by-step-guide-to-automating-security-with-cfn-lint-and-cfn-ec99b6d6bf13)  
+- [2024 Code Security: AI-Powered DevSecOps Tools Enhancing CI/CD Safety](https://medium.com/@miheer.c.jadhav7/2024-code-security-ai-powered-devsecops-tools-enhancing-ci-cd-safety-eba1df9b608a)
 
-Check out all my posts on [Medium](#) (link placeholder).
+Check out all my posts on [Medium](https://medium.com/@miheer.c.jadhav7)
 
 ---
 
