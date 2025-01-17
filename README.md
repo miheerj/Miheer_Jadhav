@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm a results-driven DevOps engineer passionate about buil
 **Description**: Automated provisioning of a secure and scalable AWS environment using Terraform. This repository demonstrates how to set up a complete AWS stack, including VPC, EC2, RDS, and S3.  
 - **Technologies**: Terraform, AWS (VPC, EC2, S3).  
 - **Impact**: Reduced provisioning time by 50% and enhanced environment consistency.  
-- [View Repository](#) (link placeholder).
+- [View Repository](https://github.com/miheerj/terraform-aws-environment/tree/main)
 
 ---
 
@@ -27,15 +27,10 @@ Welcome to my GitHub! I'm a results-driven DevOps engineer passionate about buil
 **Description**: A complete example of a Jenkins CI/CD pipeline integrating SonarQube for code quality checks and automated deployments to AWS.  
 - **Technologies**: Jenkins, SonarQube, AWS CodePipeline.  
 - **Impact**: Reduced deployment cycle times by 30% and improved code reliability.  
-- [View Repository](#) (link placeholder).
+- [View Repository](#).
 
 ---
 
-### **3. Kubernetes Monitoring Dashboard**  
-**Description**: Configured a monitoring stack using Prometheus and Grafana to provide insights into Kubernetes cluster performance and application health.  
-- **Technologies**: Kubernetes, Helm, Prometheus, Grafana.  
-- **Impact**: Reduced incident response time by 40% with proactive alerting.  
-- [View Repository](#) (link placeholder).
 
 ---
 
