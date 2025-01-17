@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a results-driven DevOps engineer passionate about buil
 - 💻 **Cloud Specialist**: Certified in AWS SysOps Administrator and Terraform Associate.
 - 🔧 **Tools & Technologies**: AWS, Terraform, Kubernetes, Docker, Jenkins, SonarQube, and more.
 - 🌟 **Achievements**: Reduced cloud costs by $1.2M annually and improved deployment success rates by 25%.
-- ✍️ **Content Creator**: Sharing my journey and technical insights on [Medium](#) (link placeholder).  
+- ✍️ **Content Creator**: Sharing my journey and technical insights on [Medium](https://medium.com/@miheer.c.jadhav7) 
 
 ---
 
